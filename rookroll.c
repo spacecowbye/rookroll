@@ -4665,10 +4665,6 @@ int main()
     
     // connect to GUI
     game_loop();
-
-    
-
-
     return 0;
 }
 
